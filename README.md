@@ -1,0 +1,1 @@
+This repository contains my Power BI Sales Analysis Dashboard. The project visualizes retail sales data to uncover insights such as total revenue, profit trends, top-performing products, and regional performance. It demonstrates my ability to clean, model, and visualize data to support data-driven decisions using Power BI.
